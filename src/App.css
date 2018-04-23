@@ -30,3 +30,32 @@
         transform: rotate(360deg);
     }
 }
+
+.react-bs-table-insert-modal {
+    white-space: pre;
+}
+
+.modal-header {
+    padding: 1em !important;
+}
+
+.modal-header .close {
+    margin-top: -2px;
+    padding: 0 !important;
+    position: absolute;
+    right: 2em;
+    top: 2em;
+    cursor: pointer;
+    float: right;
+    font-size: 21px;
+    line-height: 1;
+    color: #000;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+
+.btn.focus, .btn:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0) !important;
+    box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0) !important;
+}

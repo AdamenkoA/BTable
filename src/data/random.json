@@ -1,0 +1,1113 @@
+[
+  {
+    "name": "Hat",
+    "price": "460.00",
+    "number": 0,
+    "qualityType": 1,
+    "country": "Montserrat",
+    "properties": {
+      "color": "fuchsia",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "939.00",
+    "number": 1,
+    "qualityType": 0,
+    "country": "El Salvador",
+    "properties": {
+      "color": "fuchsia",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "441.00",
+    "number": 2,
+    "qualityType": 1,
+    "country": "Canada",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "208.00",
+    "number": 3,
+    "qualityType": 1,
+    "country": "France",
+    "properties": {
+      "color": "olive",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Gloves",
+    "price": "975.00",
+    "number": 4,
+    "qualityType": 1,
+    "country": "Estonia",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "432.00",
+    "number": 5,
+    "qualityType": 0,
+    "country": "Philippines",
+    "properties": {
+      "color": "orchid",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "809.00",
+    "number": 6,
+    "qualityType": 1,
+    "country": "South Georgia and the South Sandwich Islands",
+    "properties": {
+      "color": "teal",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "148.00",
+    "number": 7,
+    "qualityType": 1,
+    "country": "El Salvador",
+    "properties": {
+      "color": "azure",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "528.00",
+    "number": 8,
+    "qualityType": 1,
+    "country": "Bolivia",
+    "properties": {
+      "color": "azure",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "233.00",
+    "number": 9,
+    "qualityType": 0,
+    "country": "Senegal",
+    "properties": {
+      "color": "white",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Fish",
+    "price": "481.00",
+    "number": 10,
+    "qualityType": 1,
+    "country": "Malta",
+    "properties": {
+      "color": "indigo",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "854.00",
+    "number": 11,
+    "qualityType": 0,
+    "country": "New Zealand",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "436.00",
+    "number": 12,
+    "qualityType": 1,
+    "country": "Kiribati",
+    "properties": {
+      "color": "blue",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "727.00",
+    "number": 13,
+    "qualityType": 1,
+    "country": "Senegal",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Table",
+    "price": "77.00",
+    "number": 14,
+    "qualityType": 0,
+    "country": "Indonesia",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "935.00",
+    "number": 15,
+    "qualityType": 1,
+    "country": "Netherlands Antilles",
+    "properties": {
+      "color": "tan",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Towels",
+    "price": "677.00",
+    "number": 16,
+    "qualityType": 0,
+    "country": "China",
+    "properties": {
+      "color": "orchid",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "549.00",
+    "number": 17,
+    "qualityType": 1,
+    "country": "Dominican Republic",
+    "properties": {
+      "color": "fuchsia",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "654.00",
+    "number": 18,
+    "qualityType": 1,
+    "country": "Cote d'Ivoire",
+    "properties": {
+      "color": "maroon",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "598.00",
+    "number": 19,
+    "qualityType": 1,
+    "country": "Madagascar",
+    "properties": {
+      "color": "turquoise",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "908.00",
+    "number": 20,
+    "qualityType": 0,
+    "country": "Suriname",
+    "properties": {
+      "color": "indigo",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "4.00",
+    "number": 21,
+    "qualityType": 0,
+    "country": "Chile",
+    "properties": {
+      "color": "plum",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Towels",
+    "price": "123.00",
+    "number": 22,
+    "qualityType": 0,
+    "country": "Cape Verde",
+    "properties": {
+      "color": "lime",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "798.00",
+    "number": 23,
+    "qualityType": 0,
+    "country": "Democratic People's Republic of Korea",
+    "properties": {
+      "color": "mint green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "684.00",
+    "number": 24,
+    "qualityType": 1,
+    "country": "Bouvet Island (Bouvetoya)",
+    "properties": {
+      "color": "pink",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "610.00",
+    "number": 25,
+    "qualityType": 1,
+    "country": "Sudan",
+    "properties": {
+      "color": "orchid",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "165.00",
+    "number": 26,
+    "qualityType": 0,
+    "country": "Turkmenistan",
+    "properties": {
+      "color": "maroon",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "979.00",
+    "number": 27,
+    "qualityType": 1,
+    "country": "Wallis and Futuna",
+    "properties": {
+      "color": "tan",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "863.00",
+    "number": 28,
+    "qualityType": 1,
+    "country": "Maldives",
+    "properties": {
+      "color": "lime",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Car",
+    "price": "785.00",
+    "number": 29,
+    "qualityType": 1,
+    "country": "Virgin Islands, British",
+    "properties": {
+      "color": "blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Gloves",
+    "price": "395.00",
+    "number": 30,
+    "qualityType": 1,
+    "country": "Georgia",
+    "properties": {
+      "color": "silver",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Table",
+    "price": "741.00",
+    "number": 31,
+    "qualityType": 0,
+    "country": "Cuba",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "53.00",
+    "number": 32,
+    "qualityType": 1,
+    "country": "Cayman Islands",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pizza",
+    "price": "701.00",
+    "number": 33,
+    "qualityType": 1,
+    "country": "Tanzania",
+    "properties": {
+      "color": "plum",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "203.00",
+    "number": 34,
+    "qualityType": 1,
+    "country": "Portugal",
+    "properties": {
+      "color": "red",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "987.00",
+    "number": 35,
+    "qualityType": 0,
+    "country": "Cuba",
+    "properties": {
+      "color": "sky blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "852.00",
+    "number": 36,
+    "qualityType": 1,
+    "country": "Nigeria",
+    "properties": {
+      "color": "silver",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "573.00",
+    "number": 37,
+    "qualityType": 1,
+    "country": "French Southern Territories",
+    "properties": {
+      "color": "teal",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "502.00",
+    "number": 38,
+    "qualityType": 0,
+    "country": "Philippines",
+    "properties": {
+      "color": "orange",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "246.00",
+    "number": 39,
+    "qualityType": 0,
+    "country": "Malawi",
+    "properties": {
+      "color": "yellow",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "444.00",
+    "number": 40,
+    "qualityType": 1,
+    "country": "Honduras",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "155.00",
+    "number": 41,
+    "qualityType": 0,
+    "country": "Republic of Korea",
+    "properties": {
+      "color": "ivory",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "279.00",
+    "number": 42,
+    "qualityType": 0,
+    "country": "Cambodia",
+    "properties": {
+      "color": "yellow",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "988.00",
+    "number": 43,
+    "qualityType": 1,
+    "country": "Kazakhstan",
+    "properties": {
+      "color": "lavender",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "536.00",
+    "number": 44,
+    "qualityType": 1,
+    "country": "Singapore",
+    "properties": {
+      "color": "lavender",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "452.00",
+    "number": 45,
+    "qualityType": 1,
+    "country": "Uzbekistan",
+    "properties": {
+      "color": "purple",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "295.00",
+    "number": 46,
+    "qualityType": 0,
+    "country": "Saint Barthelemy",
+    "properties": {
+      "color": "orange",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "581.00",
+    "number": 47,
+    "qualityType": 0,
+    "country": "United States Minor Outlying Islands",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "129.00",
+    "number": 48,
+    "qualityType": 1,
+    "country": "Bangladesh",
+    "properties": {
+      "color": "plum",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Table",
+    "price": "650.00",
+    "number": 49,
+    "qualityType": 0,
+    "country": "Rwanda",
+    "properties": {
+      "color": "cyan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "730.00",
+    "number": 50,
+    "qualityType": 0,
+    "country": "Vietnam",
+    "properties": {
+      "color": "silver",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "916.00",
+    "number": 51,
+    "qualityType": 0,
+    "country": "Serbia",
+    "properties": {
+      "color": "white",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "805.00",
+    "number": 52,
+    "qualityType": 1,
+    "country": "Botswana",
+    "properties": {
+      "color": "blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "572.00",
+    "number": 53,
+    "qualityType": 0,
+    "country": "Congo",
+    "properties": {
+      "color": "purple",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "584.00",
+    "number": 54,
+    "qualityType": 1,
+    "country": "Mauritius",
+    "properties": {
+      "color": "magenta",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "116.00",
+    "number": 55,
+    "qualityType": 0,
+    "country": "Virgin Islands, U.S.",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Hat",
+    "price": "625.00",
+    "number": 56,
+    "qualityType": 0,
+    "country": "Venezuela",
+    "properties": {
+      "color": "indigo",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "156.00",
+    "number": 57,
+    "qualityType": 0,
+    "country": "Burkina Faso",
+    "properties": {
+      "color": "grey",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "987.00",
+    "number": 58,
+    "qualityType": 1,
+    "country": "Mali",
+    "properties": {
+      "color": "orange",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "999.00",
+    "number": 59,
+    "qualityType": 0,
+    "country": "Bhutan",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "158.00",
+    "number": 60,
+    "qualityType": 1,
+    "country": "Russian Federation",
+    "properties": {
+      "color": "indigo",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "473.00",
+    "number": 61,
+    "qualityType": 0,
+    "country": "Niger",
+    "properties": {
+      "color": "ivory",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "886.00",
+    "number": 62,
+    "qualityType": 1,
+    "country": "Spain",
+    "properties": {
+      "color": "lime",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "529.00",
+    "number": 63,
+    "qualityType": 1,
+    "country": "Guernsey",
+    "properties": {
+      "color": "pink",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "138.00",
+    "number": 64,
+    "qualityType": 1,
+    "country": "Philippines",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "190.00",
+    "number": 65,
+    "qualityType": 0,
+    "country": "Gibraltar",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Towels",
+    "price": "974.00",
+    "number": 66,
+    "qualityType": 0,
+    "country": "Ukraine",
+    "properties": {
+      "color": "lavender",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "948.00",
+    "number": 67,
+    "qualityType": 1,
+    "country": "China",
+    "properties": {
+      "color": "green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "835.00",
+    "number": 68,
+    "qualityType": 1,
+    "country": "Moldova",
+    "properties": {
+      "color": "turquoise",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "391.00",
+    "number": 69,
+    "qualityType": 0,
+    "country": "Brazil",
+    "properties": {
+      "color": "olive",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "411.00",
+    "number": 70,
+    "qualityType": 0,
+    "country": "Australia",
+    "properties": {
+      "color": "gold",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pizza",
+    "price": "729.00",
+    "number": 71,
+    "qualityType": 1,
+    "country": "Chile",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "138.00",
+    "number": 72,
+    "qualityType": 1,
+    "country": "Norfolk Island",
+    "properties": {
+      "color": "mint green",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Fish",
+    "price": "301.00",
+    "number": 73,
+    "qualityType": 0,
+    "country": "Bahrain",
+    "properties": {
+      "color": "mint green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "646.00",
+    "number": 74,
+    "qualityType": 1,
+    "country": "Turkmenistan",
+    "properties": {
+      "color": "ivory",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pizza",
+    "price": "649.00",
+    "number": 75,
+    "qualityType": 0,
+    "country": "French Polynesia",
+    "properties": {
+      "color": "tan",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Car",
+    "price": "925.00",
+    "number": 76,
+    "qualityType": 1,
+    "country": "Ghana",
+    "properties": {
+      "color": "mint green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Gloves",
+    "price": "2.00",
+    "number": 77,
+    "qualityType": 0,
+    "country": "Kuwait",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "303.00",
+    "number": 78,
+    "qualityType": 1,
+    "country": "Syrian Arab Republic",
+    "properties": {
+      "color": "purple",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "601.00",
+    "number": 79,
+    "qualityType": 0,
+    "country": "Mongolia",
+    "properties": {
+      "color": "salmon",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "970.00",
+    "number": 80,
+    "qualityType": 0,
+    "country": "Madagascar",
+    "properties": {
+      "color": "mint green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "767.00",
+    "number": 81,
+    "qualityType": 0,
+    "country": "Equatorial Guinea",
+    "properties": {
+      "color": "red",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "733.00",
+    "number": 82,
+    "qualityType": 1,
+    "country": "French Polynesia",
+    "properties": {
+      "color": "lime",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "901.00",
+    "number": 83,
+    "qualityType": 0,
+    "country": "Falkland Islands (Malvinas)",
+    "properties": {
+      "color": "azure",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Towels",
+    "price": "191.00",
+    "number": 84,
+    "qualityType": 0,
+    "country": "Saint Helena",
+    "properties": {
+      "color": "azure",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Keyboard",
+    "price": "51.00",
+    "number": 85,
+    "qualityType": 0,
+    "country": "Ethiopia",
+    "properties": {
+      "color": "orchid",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "101.00",
+    "number": 86,
+    "qualityType": 0,
+    "country": "Samoa",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "270.00",
+    "number": 87,
+    "qualityType": 0,
+    "country": "San Marino",
+    "properties": {
+      "color": "cyan",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "330.00",
+    "number": 88,
+    "qualityType": 1,
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "properties": {
+      "color": "turquoise",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "375.00",
+    "number": 89,
+    "qualityType": 1,
+    "country": "Saint Kitts and Nevis",
+    "properties": {
+      "color": "green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pizza",
+    "price": "973.00",
+    "number": 90,
+    "qualityType": 0,
+    "country": "Malaysia",
+    "properties": {
+      "color": "yellow",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "409.00",
+    "number": 91,
+    "qualityType": 1,
+    "country": "Macao",
+    "properties": {
+      "color": "sky blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Hat",
+    "price": "516.00",
+    "number": 92,
+    "qualityType": 1,
+    "country": "Turkmenistan",
+    "properties": {
+      "color": "indigo",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "161.00",
+    "number": 93,
+    "qualityType": 0,
+    "country": "Samoa",
+    "properties": {
+      "color": "gold",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "405.00",
+    "number": 94,
+    "qualityType": 0,
+    "country": "Eritrea",
+    "properties": {
+      "color": "lavender",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bike",
+    "price": "501.00",
+    "number": 95,
+    "qualityType": 0,
+    "country": "Bolivia",
+    "properties": {
+      "color": "red",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pizza",
+    "price": "105.00",
+    "number": 96,
+    "qualityType": 1,
+    "country": "Bahamas",
+    "properties": {
+      "color": "indigo",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "845.00",
+    "number": 97,
+    "qualityType": 1,
+    "country": "Isle of Man",
+    "properties": {
+      "color": "green",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "937.00",
+    "number": 98,
+    "qualityType": 0,
+    "country": "Belize",
+    "properties": {
+      "color": "fuchsia",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Car",
+    "price": "679.00",
+    "number": 99,
+    "qualityType": 0,
+    "country": "Congo",
+    "properties": {
+      "color": "fuchsia",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Car",
+    "price": "895.00",
+    "number": 100,
+    "qualityType": 1,
+    "country": "Sweden",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  }
+]
