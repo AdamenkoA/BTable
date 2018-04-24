@@ -8,6 +8,7 @@ const info = {
     qualityType: {
         0: "yes",
         1: "no"
-    }
+    },
+    jobType: ['A', 'B', 'C', 'D']
 };
 export default info;

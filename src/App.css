@@ -54,8 +54,40 @@
     filter: alpha(opacity=20);
 }
 
+.react-bs-table-update {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 .btn.focus, .btn:focus {
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0) !important;
     box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0) !important;
+}
+
+.table-custom-checkboxes > colgroup > col:first-child {
+    width: 36px !important;
+    min-width: 36px !important;
+}
+
+.react-bs-table-tool-bar, .react-bs-table-pagination, .row {
+    margin-top: 5px !important;
+}
+
+.btn-group-sm {
+    height: 2.2em;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100%;
+}
+
+.btn {
+    border-color: #6c757d !important;
+    margin-right: 2px !important;
 }

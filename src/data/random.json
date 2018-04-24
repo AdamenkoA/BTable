@@ -1,1112 +1,1314 @@
 [
   {
-    "name": "Hat",
-    "price": "460.00",
+    "name": "Table",
+    "price": "937.00",
     "number": 0,
     "qualityType": 1,
-    "country": "Montserrat",
-    "properties": {
-      "color": "fuchsia",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Soap",
-    "price": "939.00",
-    "number": 1,
-    "qualityType": 0,
-    "country": "El Salvador",
-    "properties": {
-      "color": "fuchsia",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Pants",
-    "price": "441.00",
-    "number": 2,
-    "qualityType": 1,
-    "country": "Canada",
-    "properties": {
-      "color": "yellow",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "208.00",
-    "number": 3,
-    "qualityType": 1,
-    "country": "France",
-    "properties": {
-      "color": "olive",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Gloves",
-    "price": "975.00",
-    "number": 4,
-    "qualityType": 1,
-    "country": "Estonia",
-    "properties": {
-      "color": "tan",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Sausages",
-    "price": "432.00",
-    "number": 5,
-    "qualityType": 0,
-    "country": "Philippines",
-    "properties": {
-      "color": "orchid",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "809.00",
-    "number": 6,
-    "qualityType": 1,
-    "country": "South Georgia and the South Sandwich Islands",
-    "properties": {
-      "color": "teal",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Soap",
-    "price": "148.00",
-    "number": 7,
-    "qualityType": 1,
-    "country": "El Salvador",
-    "properties": {
-      "color": "azure",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shoes",
-    "price": "528.00",
-    "number": 8,
-    "qualityType": 1,
-    "country": "Bolivia",
-    "properties": {
-      "color": "azure",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Salad",
-    "price": "233.00",
-    "number": 9,
-    "qualityType": 0,
-    "country": "Senegal",
-    "properties": {
-      "color": "white",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Fish",
-    "price": "481.00",
-    "number": 10,
-    "qualityType": 1,
-    "country": "Malta",
-    "properties": {
-      "color": "indigo",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "854.00",
-    "number": 11,
-    "qualityType": 0,
-    "country": "New Zealand",
-    "properties": {
-      "color": "black",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "436.00",
-    "number": 12,
-    "qualityType": 1,
-    "country": "Kiribati",
+    "country": "Chad",
+    "jobType": "D",
+    "date": "2019-04-02T00:45:42",
     "properties": {
       "color": "blue",
       "type": "huge"
     }
   },
   {
-    "name": "Bacon",
-    "price": "727.00",
-    "number": 13,
-    "qualityType": 1,
-    "country": "Senegal",
-    "properties": {
-      "color": "plum",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Table",
-    "price": "77.00",
-    "number": 14,
-    "qualityType": 0,
-    "country": "Indonesia",
-    "properties": {
-      "color": "plum",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Pants",
-    "price": "935.00",
-    "number": 15,
-    "qualityType": 1,
-    "country": "Netherlands Antilles",
-    "properties": {
-      "color": "tan",
-      "type": "large"
-    }
-  },
-  {
     "name": "Towels",
-    "price": "677.00",
-    "number": 16,
-    "qualityType": 0,
-    "country": "China",
+    "price": "85.00",
+    "number": 1,
+    "qualityType": 1,
+    "country": "Macao",
+    "jobType": "A",
+    "date": "2019-04-12T23:30:43",
     "properties": {
       "color": "orchid",
       "type": "small"
     }
   },
   {
-    "name": "Shoes",
-    "price": "549.00",
-    "number": 17,
-    "qualityType": 1,
-    "country": "Dominican Republic",
-    "properties": {
-      "color": "fuchsia",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shirt",
-    "price": "654.00",
-    "number": 18,
-    "qualityType": 1,
-    "country": "Cote d'Ivoire",
-    "properties": {
-      "color": "maroon",
-      "type": "huge"
-    }
-  },
-  {
     "name": "Cheese",
-    "price": "598.00",
-    "number": 19,
+    "price": "164.00",
+    "number": 2,
     "qualityType": 1,
-    "country": "Madagascar",
-    "properties": {
-      "color": "turquoise",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Salad",
-    "price": "908.00",
-    "number": 20,
-    "qualityType": 0,
-    "country": "Suriname",
-    "properties": {
-      "color": "indigo",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shirt",
-    "price": "4.00",
-    "number": 21,
-    "qualityType": 0,
-    "country": "Chile",
-    "properties": {
-      "color": "plum",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Towels",
-    "price": "123.00",
-    "number": 22,
-    "qualityType": 0,
-    "country": "Cape Verde",
-    "properties": {
-      "color": "lime",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shoes",
-    "price": "798.00",
-    "number": 23,
-    "qualityType": 0,
-    "country": "Democratic People's Republic of Korea",
+    "country": "Samoa",
+    "jobType": "B",
+    "date": "2018-08-13T12:57:33",
     "properties": {
       "color": "mint green",
       "type": "small"
     }
   },
   {
-    "name": "Pants",
-    "price": "684.00",
-    "number": 24,
+    "name": "Pizza",
+    "price": "151.00",
+    "number": 3,
     "qualityType": 1,
-    "country": "Bouvet Island (Bouvetoya)",
+    "country": "Kenya",
+    "jobType": "D",
+    "date": "2019-01-14T11:09:07",
     "properties": {
-      "color": "pink",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Cheese",
-    "price": "610.00",
-    "number": 25,
-    "qualityType": 1,
-    "country": "Sudan",
-    "properties": {
-      "color": "orchid",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Chips",
-    "price": "165.00",
-    "number": 26,
-    "qualityType": 0,
-    "country": "Turkmenistan",
-    "properties": {
-      "color": "maroon",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Pants",
-    "price": "979.00",
-    "number": 27,
-    "qualityType": 1,
-    "country": "Wallis and Futuna",
-    "properties": {
-      "color": "tan",
+      "color": "blue",
       "type": "large"
     }
   },
   {
-    "name": "Ball",
-    "price": "863.00",
-    "number": 28,
-    "qualityType": 1,
-    "country": "Maldives",
-    "properties": {
-      "color": "lime",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Car",
-    "price": "785.00",
-    "number": 29,
-    "qualityType": 1,
-    "country": "Virgin Islands, British",
-    "properties": {
-      "color": "blue",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Gloves",
-    "price": "395.00",
-    "number": 30,
-    "qualityType": 1,
-    "country": "Georgia",
-    "properties": {
-      "color": "silver",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Table",
-    "price": "741.00",
-    "number": 31,
+    "name": "Cheese",
+    "price": "781.00",
+    "number": 4,
     "qualityType": 0,
-    "country": "Cuba",
+    "country": "Djibouti",
+    "jobType": "C",
+    "date": "2018-07-08T22:30:20",
     "properties": {
-      "color": "yellow",
+      "color": "lavender",
       "type": "small"
     }
   },
   {
-    "name": "Chips",
-    "price": "53.00",
-    "number": 32,
+    "name": "Bacon",
+    "price": "753.00",
+    "number": 5,
     "qualityType": 1,
-    "country": "Cayman Islands",
+    "country": "Ukraine",
+    "jobType": "A",
+    "date": "2018-11-13T19:39:29",
     "properties": {
-      "color": "tan",
+      "color": "fuchsia",
       "type": "small"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "240.00",
+    "number": 6,
+    "qualityType": 1,
+    "country": "Western Sahara",
+    "jobType": "C",
+    "date": "2018-06-26T01:14:05",
+    "properties": {
+      "color": "teal",
+      "type": "huge"
     }
   },
   {
     "name": "Pizza",
-    "price": "701.00",
-    "number": 33,
-    "qualityType": 1,
-    "country": "Tanzania",
-    "properties": {
-      "color": "plum",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Cheese",
-    "price": "203.00",
-    "number": 34,
-    "qualityType": 1,
-    "country": "Portugal",
-    "properties": {
-      "color": "red",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "987.00",
-    "number": 35,
+    "price": "106.00",
+    "number": 7,
     "qualityType": 0,
-    "country": "Cuba",
-    "properties": {
-      "color": "sky blue",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Mouse",
-    "price": "852.00",
-    "number": 36,
-    "qualityType": 1,
-    "country": "Nigeria",
-    "properties": {
-      "color": "silver",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Ball",
-    "price": "573.00",
-    "number": 37,
-    "qualityType": 1,
-    "country": "French Southern Territories",
-    "properties": {
-      "color": "teal",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Sausages",
-    "price": "502.00",
-    "number": 38,
-    "qualityType": 0,
-    "country": "Philippines",
-    "properties": {
-      "color": "orange",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Mouse",
-    "price": "246.00",
-    "number": 39,
-    "qualityType": 0,
-    "country": "Malawi",
+    "country": "Solomon Islands",
+    "jobType": "C",
+    "date": "2019-04-11T06:51:17",
     "properties": {
       "color": "yellow",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "444.00",
-    "number": 40,
-    "qualityType": 1,
-    "country": "Honduras",
-    "properties": {
-      "color": "plum",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shirt",
-    "price": "155.00",
-    "number": 41,
-    "qualityType": 0,
-    "country": "Republic of Korea",
-    "properties": {
-      "color": "ivory",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shoes",
-    "price": "279.00",
-    "number": 42,
-    "qualityType": 0,
-    "country": "Cambodia",
-    "properties": {
-      "color": "yellow",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Chips",
-    "price": "988.00",
-    "number": 43,
-    "qualityType": 1,
-    "country": "Kazakhstan",
-    "properties": {
-      "color": "lavender",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shirt",
-    "price": "536.00",
-    "number": 44,
-    "qualityType": 1,
-    "country": "Singapore",
-    "properties": {
-      "color": "lavender",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Ball",
-    "price": "452.00",
-    "number": 45,
-    "qualityType": 1,
-    "country": "Uzbekistan",
-    "properties": {
-      "color": "purple",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Tuna",
-    "price": "295.00",
-    "number": 46,
-    "qualityType": 0,
-    "country": "Saint Barthelemy",
-    "properties": {
-      "color": "orange",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Computer",
-    "price": "581.00",
-    "number": 47,
-    "qualityType": 0,
-    "country": "United States Minor Outlying Islands",
-    "properties": {
-      "color": "tan",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Bacon",
-    "price": "129.00",
-    "number": 48,
-    "qualityType": 1,
-    "country": "Bangladesh",
-    "properties": {
-      "color": "plum",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Table",
-    "price": "650.00",
-    "number": 49,
-    "qualityType": 0,
-    "country": "Rwanda",
-    "properties": {
-      "color": "cyan",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Chicken",
-    "price": "730.00",
-    "number": 50,
-    "qualityType": 0,
-    "country": "Vietnam",
-    "properties": {
-      "color": "silver",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Bacon",
-    "price": "916.00",
-    "number": 51,
-    "qualityType": 0,
-    "country": "Serbia",
-    "properties": {
-      "color": "white",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Chips",
-    "price": "805.00",
-    "number": 52,
-    "qualityType": 1,
-    "country": "Botswana",
-    "properties": {
-      "color": "blue",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Sausages",
-    "price": "572.00",
-    "number": 53,
-    "qualityType": 0,
-    "country": "Congo",
-    "properties": {
-      "color": "purple",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Cheese",
-    "price": "584.00",
-    "number": 54,
-    "qualityType": 1,
-    "country": "Mauritius",
-    "properties": {
-      "color": "magenta",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Pants",
-    "price": "116.00",
-    "number": 55,
-    "qualityType": 0,
-    "country": "Virgin Islands, U.S.",
-    "properties": {
-      "color": "plum",
       "type": "small"
     }
   },
   {
     "name": "Hat",
-    "price": "625.00",
-    "number": 56,
+    "price": "372.00",
+    "number": 8,
     "qualityType": 0,
-    "country": "Venezuela",
+    "country": "Bolivia",
+    "jobType": "A",
+    "date": "2018-12-16T07:38:21",
     "properties": {
-      "color": "indigo",
+      "color": "silver",
       "type": "small"
     }
   },
   {
-    "name": "Computer",
-    "price": "156.00",
-    "number": 57,
+    "name": "Bacon",
+    "price": "864.00",
+    "number": 9,
     "qualityType": 0,
-    "country": "Burkina Faso",
+    "country": "Martinique",
+    "jobType": "A",
+    "date": "2018-12-31T21:33:43",
     "properties": {
-      "color": "grey",
+      "color": "orange",
       "type": "large"
     }
   },
   {
-    "name": "Shirt",
-    "price": "987.00",
-    "number": 58,
+    "name": "Pants",
+    "price": "594.00",
+    "number": 10,
     "qualityType": 1,
-    "country": "Mali",
-    "properties": {
-      "color": "orange",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Chicken",
-    "price": "999.00",
-    "number": 59,
-    "qualityType": 0,
-    "country": "Bhutan",
-    "properties": {
-      "color": "tan",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Sausages",
-    "price": "158.00",
-    "number": 60,
-    "qualityType": 1,
-    "country": "Russian Federation",
-    "properties": {
-      "color": "indigo",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Mouse",
-    "price": "473.00",
-    "number": 61,
-    "qualityType": 0,
-    "country": "Niger",
+    "country": "Greece",
+    "jobType": "C",
+    "date": "2018-05-19T23:18:12",
     "properties": {
       "color": "ivory",
       "type": "small"
     }
   },
   {
-    "name": "Pants",
-    "price": "886.00",
-    "number": 62,
-    "qualityType": 1,
-    "country": "Spain",
+    "name": "Shirt",
+    "price": "801.00",
+    "number": 11,
+    "qualityType": 0,
+    "country": "Ghana",
+    "jobType": "D",
+    "date": "2018-06-11T06:45:32",
     "properties": {
-      "color": "lime",
+      "color": "azure",
       "type": "small"
     }
   },
   {
-    "name": "Shirt",
-    "price": "529.00",
-    "number": 63,
+    "name": "Sausages",
+    "price": "46.00",
+    "number": 12,
     "qualityType": 1,
-    "country": "Guernsey",
+    "country": "Armenia",
+    "jobType": "C",
+    "date": "2018-05-02T00:05:57",
     "properties": {
-      "color": "pink",
-      "type": "large"
+      "color": "azure",
+      "type": "huge"
     }
   },
   {
-    "name": "Salad",
-    "price": "138.00",
-    "number": 64,
+    "name": "Chips",
+    "price": "772.00",
+    "number": 13,
     "qualityType": 1,
-    "country": "Philippines",
+    "country": "Virgin Islands, British",
+    "jobType": "A",
+    "date": "2018-07-30T07:59:47",
     "properties": {
-      "color": "magenta",
+      "color": "indigo",
       "type": "small"
     }
   },
   {
     "name": "Chicken",
-    "price": "190.00",
-    "number": 65,
+    "price": "415.00",
+    "number": 14,
     "qualityType": 0,
-    "country": "Gibraltar",
-    "properties": {
-      "color": "yellow",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Towels",
-    "price": "974.00",
-    "number": 66,
-    "qualityType": 0,
-    "country": "Ukraine",
-    "properties": {
-      "color": "lavender",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Salad",
-    "price": "948.00",
-    "number": 67,
-    "qualityType": 1,
-    "country": "China",
+    "country": "Netherlands",
+    "jobType": "C",
+    "date": "2018-05-24T03:59:03",
     "properties": {
       "color": "green",
       "type": "small"
     }
   },
   {
-    "name": "Cheese",
-    "price": "835.00",
-    "number": 68,
+    "name": "Pizza",
+    "price": "823.00",
+    "number": 15,
     "qualityType": 1,
-    "country": "Moldova",
+    "country": "Honduras",
+    "jobType": "D",
+    "date": "2019-02-14T09:27:09",
+    "properties": {
+      "color": "indigo",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "485.00",
+    "number": 16,
+    "qualityType": 1,
+    "country": "Gabon",
+    "jobType": "C",
+    "date": "2018-04-27T04:20:39",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "229.00",
+    "number": 17,
+    "qualityType": 1,
+    "country": "Turkmenistan",
+    "jobType": "D",
+    "date": "2018-05-22T01:36:36",
+    "properties": {
+      "color": "red",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Car",
+    "price": "665.00",
+    "number": 18,
+    "qualityType": 0,
+    "country": "Grenada",
+    "jobType": "B",
+    "date": "2018-11-13T00:07:03",
+    "properties": {
+      "color": "blue",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "90.00",
+    "number": 19,
+    "qualityType": 0,
+    "country": "Djibouti",
+    "jobType": "A",
+    "date": "2018-10-10T17:12:03",
     "properties": {
       "color": "turquoise",
       "type": "small"
     }
   },
   {
-    "name": "Sausages",
-    "price": "391.00",
-    "number": 69,
-    "qualityType": 0,
-    "country": "Brazil",
+    "name": "Table",
+    "price": "276.00",
+    "number": 20,
+    "qualityType": 1,
+    "country": "Northern Mariana Islands",
+    "jobType": "C",
+    "date": "2019-03-28T21:59:28",
     "properties": {
-      "color": "olive",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Computer",
-    "price": "411.00",
-    "number": 70,
-    "qualityType": 0,
-    "country": "Australia",
-    "properties": {
-      "color": "gold",
+      "color": "azure",
       "type": "small"
     }
   },
   {
-    "name": "Pizza",
-    "price": "729.00",
-    "number": 71,
+    "name": "Computer",
+    "price": "277.00",
+    "number": 21,
     "qualityType": 1,
-    "country": "Chile",
+    "country": "Liberia",
+    "jobType": "B",
+    "date": "2018-06-12T09:57:21",
     "properties": {
-      "color": "yellow",
+      "color": "turquoise",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "69.00",
+    "number": 22,
+    "qualityType": 0,
+    "country": "Trinidad and Tobago",
+    "jobType": "B",
+    "date": "2018-05-30T02:29:58",
+    "properties": {
+      "color": "black",
       "type": "small"
     }
   },
   {
     "name": "Chicken",
-    "price": "138.00",
-    "number": 72,
+    "price": "942.00",
+    "number": 23,
     "qualityType": 1,
-    "country": "Norfolk Island",
+    "country": "Malawi",
+    "jobType": "A",
+    "date": "2018-10-12T08:32:14",
     "properties": {
-      "color": "mint green",
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "116.00",
+    "number": 24,
+    "qualityType": 0,
+    "country": "Poland",
+    "jobType": "A",
+    "date": "2018-11-23T06:55:53",
+    "properties": {
+      "color": "grey",
       "type": "huge"
     }
   },
   {
-    "name": "Fish",
-    "price": "301.00",
-    "number": 73,
+    "name": "Mouse",
+    "price": "956.00",
+    "number": 25,
     "qualityType": 0,
-    "country": "Bahrain",
+    "country": "Poland",
+    "jobType": "D",
+    "date": "2018-08-10T07:51:57",
     "properties": {
-      "color": "mint green",
+      "color": "maroon",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Salad",
+    "price": "226.00",
+    "number": 26,
+    "qualityType": 0,
+    "country": "Australia",
+    "jobType": "D",
+    "date": "2018-08-07T18:52:14",
+    "properties": {
+      "color": "grey",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "483.00",
+    "number": 27,
+    "qualityType": 1,
+    "country": "Guernsey",
+    "jobType": "A",
+    "date": "2018-06-19T05:28:55",
+    "properties": {
+      "color": "plum",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "427.00",
+    "number": 28,
+    "qualityType": 0,
+    "country": "Norfolk Island",
+    "jobType": "D",
+    "date": "2019-01-19T10:45:43",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "19.00",
+    "number": 29,
+    "qualityType": 1,
+    "country": "Ghana",
+    "jobType": "B",
+    "date": "2018-12-01T07:10:49",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "269.00",
+    "number": 30,
+    "qualityType": 0,
+    "country": "Kazakhstan",
+    "jobType": "D",
+    "date": "2019-04-10T00:59:05",
+    "properties": {
+      "color": "gold",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "106.00",
+    "number": 31,
+    "qualityType": 1,
+    "country": "Tajikistan",
+    "jobType": "A",
+    "date": "2019-03-29T12:29:03",
+    "properties": {
+      "color": "silver",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "149.00",
+    "number": 32,
+    "qualityType": 0,
+    "country": "Russian Federation",
+    "jobType": "A",
+    "date": "2019-04-16T21:23:10",
+    "properties": {
+      "color": "orchid",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "400.00",
+    "number": 33,
+    "qualityType": 0,
+    "country": "French Polynesia",
+    "jobType": "A",
+    "date": "2018-11-25T03:01:32",
+    "properties": {
+      "color": "pink",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "573.00",
+    "number": 34,
+    "qualityType": 1,
+    "country": "Ghana",
+    "jobType": "D",
+    "date": "2018-06-14T20:14:07",
+    "properties": {
+      "color": "blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chair",
+    "price": "903.00",
+    "number": 35,
+    "qualityType": 1,
+    "country": "Honduras",
+    "jobType": "C",
+    "date": "2018-08-05T06:19:32",
+    "properties": {
+      "color": "azure",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "69.00",
+    "number": 36,
+    "qualityType": 1,
+    "country": "Azerbaijan",
+    "jobType": "D",
+    "date": "2019-03-17T06:37:46",
+    "properties": {
+      "color": "lime",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Hat",
+    "price": "289.00",
+    "number": 37,
+    "qualityType": 1,
+    "country": "Malaysia",
+    "jobType": "C",
+    "date": "2018-10-02T18:33:44",
+    "properties": {
+      "color": "lavender",
       "type": "small"
     }
   },
   {
     "name": "Computer",
-    "price": "646.00",
-    "number": 74,
+    "price": "619.00",
+    "number": 38,
+    "qualityType": 0,
+    "country": "Faroe Islands",
+    "jobType": "C",
+    "date": "2019-04-12T18:51:45",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Hat",
+    "price": "819.00",
+    "number": 39,
+    "qualityType": 0,
+    "country": "Bulgaria",
+    "jobType": "B",
+    "date": "2019-03-03T09:27:34",
+    "properties": {
+      "color": "azure",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "756.00",
+    "number": 40,
     "qualityType": 1,
-    "country": "Turkmenistan",
+    "country": "Indonesia",
+    "jobType": "A",
+    "date": "2019-02-01T06:57:10",
+    "properties": {
+      "color": "teal",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shoes",
+    "price": "35.00",
+    "number": 41,
+    "qualityType": 0,
+    "country": "Liechtenstein",
+    "jobType": "D",
+    "date": "2019-04-03T09:12:22",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "773.00",
+    "number": 42,
+    "qualityType": 1,
+    "country": "Gabon",
+    "jobType": "A",
+    "date": "2018-08-22T10:40:21",
+    "properties": {
+      "color": "magenta",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "430.00",
+    "number": 43,
+    "qualityType": 1,
+    "country": "Panama",
+    "jobType": "A",
+    "date": "2019-03-24T18:23:40",
     "properties": {
       "color": "ivory",
       "type": "small"
     }
   },
   {
-    "name": "Pizza",
-    "price": "649.00",
-    "number": 75,
+    "name": "Cheese",
+    "price": "485.00",
+    "number": 44,
+    "qualityType": 1,
+    "country": "Eritrea",
+    "jobType": "D",
+    "date": "2018-09-29T21:47:28",
+    "properties": {
+      "color": "grey",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "787.00",
+    "number": 45,
     "qualityType": 0,
-    "country": "French Polynesia",
+    "country": "Cape Verde",
+    "jobType": "A",
+    "date": "2018-05-03T03:19:43",
     "properties": {
       "color": "tan",
       "type": "large"
     }
   },
   {
-    "name": "Car",
-    "price": "925.00",
-    "number": 76,
+    "name": "Pizza",
+    "price": "481.00",
+    "number": 46,
     "qualityType": 1,
-    "country": "Ghana",
-    "properties": {
-      "color": "mint green",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Gloves",
-    "price": "2.00",
-    "number": 77,
-    "qualityType": 0,
-    "country": "Kuwait",
-    "properties": {
-      "color": "yellow",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Chips",
-    "price": "303.00",
-    "number": 78,
-    "qualityType": 1,
-    "country": "Syrian Arab Republic",
-    "properties": {
-      "color": "purple",
-      "type": "huge"
-    }
-  },
-  {
-    "name": "Bacon",
-    "price": "601.00",
-    "number": 79,
-    "qualityType": 0,
-    "country": "Mongolia",
+    "country": "Antarctica (the territory South of 60 deg S)",
+    "jobType": "C",
+    "date": "2018-06-02T07:34:16",
     "properties": {
       "color": "salmon",
       "type": "small"
     }
   },
   {
-    "name": "Bacon",
-    "price": "970.00",
-    "number": 80,
+    "name": "Pants",
+    "price": "935.00",
+    "number": 47,
+    "qualityType": 1,
+    "country": "Ethiopia",
+    "jobType": "A",
+    "date": "2018-06-07T00:14:03",
+    "properties": {
+      "color": "salmon",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chair",
+    "price": "499.00",
+    "number": 48,
     "qualityType": 0,
-    "country": "Madagascar",
+    "country": "Lesotho",
+    "jobType": "B",
+    "date": "2018-10-05T21:48:13",
     "properties": {
       "color": "mint green",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Cheese",
-    "price": "767.00",
-    "number": 81,
-    "qualityType": 0,
-    "country": "Equatorial Guinea",
-    "properties": {
-      "color": "red",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Pants",
-    "price": "733.00",
-    "number": 82,
-    "qualityType": 1,
-    "country": "French Polynesia",
-    "properties": {
-      "color": "lime",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shirt",
-    "price": "901.00",
-    "number": 83,
-    "qualityType": 0,
-    "country": "Falkland Islands (Malvinas)",
-    "properties": {
-      "color": "azure",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Towels",
-    "price": "191.00",
-    "number": 84,
-    "qualityType": 0,
-    "country": "Saint Helena",
-    "properties": {
-      "color": "azure",
       "type": "huge"
     }
   },
   {
-    "name": "Keyboard",
-    "price": "51.00",
-    "number": 85,
-    "qualityType": 0,
-    "country": "Ethiopia",
+    "name": "Bike",
+    "price": "728.00",
+    "number": 49,
+    "qualityType": 1,
+    "country": "Grenada",
+    "jobType": "B",
+    "date": "2018-11-24T02:41:22",
     "properties": {
-      "color": "orchid",
+      "color": "pink",
       "type": "small"
     }
   },
   {
-    "name": "Pants",
-    "price": "101.00",
-    "number": 86,
+    "name": "Shoes",
+    "price": "609.00",
+    "number": 50,
+    "qualityType": 1,
+    "country": "Brunei Darussalam",
+    "jobType": "A",
+    "date": "2018-08-25T01:33:57",
+    "properties": {
+      "color": "white",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Mouse",
+    "price": "433.00",
+    "number": 51,
     "qualityType": 0,
-    "country": "Samoa",
+    "country": "United Arab Emirates",
+    "jobType": "D",
+    "date": "2018-10-11T01:27:24",
+    "properties": {
+      "color": "magenta",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "158.00",
+    "number": 52,
+    "qualityType": 0,
+    "country": "Cyprus",
+    "jobType": "B",
+    "date": "2018-11-17T02:25:09",
     "properties": {
       "color": "black",
       "type": "small"
     }
   },
   {
-    "name": "Salad",
-    "price": "270.00",
-    "number": 87,
+    "name": "Shirt",
+    "price": "765.00",
+    "number": 53,
     "qualityType": 0,
-    "country": "San Marino",
+    "country": "Cuba",
+    "jobType": "A",
+    "date": "2019-04-16T23:14:31",
     "properties": {
-      "color": "cyan",
-      "type": "large"
-    }
-  },
-  {
-    "name": "Sausages",
-    "price": "330.00",
-    "number": 88,
-    "qualityType": 1,
-    "country": "Antarctica (the territory South of 60 deg S)",
-    "properties": {
-      "color": "turquoise",
+      "color": "maroon",
       "type": "small"
     }
   },
   {
-    "name": "Chips",
-    "price": "375.00",
-    "number": 89,
-    "qualityType": 1,
-    "country": "Saint Kitts and Nevis",
-    "properties": {
-      "color": "green",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Pizza",
-    "price": "973.00",
-    "number": 90,
+    "name": "Cheese",
+    "price": "966.00",
+    "number": 54,
     "qualityType": 0,
-    "country": "Malaysia",
+    "country": "New Caledonia",
+    "jobType": "D",
+    "date": "2018-12-24T08:53:43",
     "properties": {
       "color": "yellow",
       "type": "huge"
     }
   },
   {
-    "name": "Salad",
-    "price": "409.00",
-    "number": 91,
+    "name": "Shirt",
+    "price": "81.00",
+    "number": 55,
     "qualityType": 1,
-    "country": "Macao",
+    "country": "Cyprus",
+    "jobType": "A",
+    "date": "2018-11-12T21:38:36",
     "properties": {
-      "color": "sky blue",
+      "color": "magenta",
       "type": "small"
     }
   },
   {
-    "name": "Hat",
-    "price": "516.00",
-    "number": 92,
-    "qualityType": 1,
-    "country": "Turkmenistan",
-    "properties": {
-      "color": "indigo",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Shoes",
-    "price": "161.00",
-    "number": 93,
+    "name": "Sausages",
+    "price": "192.00",
+    "number": 56,
     "qualityType": 0,
-    "country": "Samoa",
+    "country": "Palau",
+    "jobType": "A",
+    "date": "2018-08-07T07:06:06",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bike",
+    "price": "787.00",
+    "number": 57,
+    "qualityType": 0,
+    "country": "Niger",
+    "jobType": "B",
+    "date": "2019-02-06T10:14:41",
     "properties": {
       "color": "gold",
       "type": "large"
     }
   },
   {
-    "name": "Mouse",
-    "price": "405.00",
-    "number": 94,
+    "name": "Computer",
+    "price": "81.00",
+    "number": 58,
     "qualityType": 0,
-    "country": "Eritrea",
+    "country": "Chile",
+    "jobType": "A",
+    "date": "2018-09-10T07:15:23",
     "properties": {
-      "color": "lavender",
+      "color": "purple",
       "type": "small"
     }
   },
   {
-    "name": "Bike",
-    "price": "501.00",
-    "number": 95,
-    "qualityType": 0,
-    "country": "Bolivia",
-    "properties": {
-      "color": "red",
-      "type": "small"
-    }
-  },
-  {
-    "name": "Pizza",
-    "price": "105.00",
-    "number": 96,
+    "name": "Table",
+    "price": "976.00",
+    "number": 59,
     "qualityType": 1,
-    "country": "Bahamas",
+    "country": "Canada",
+    "jobType": "B",
+    "date": "2018-07-11T12:59:49",
     "properties": {
-      "color": "indigo",
+      "color": "silver",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chips",
+    "price": "46.00",
+    "number": 60,
+    "qualityType": 1,
+    "country": "French Polynesia",
+    "jobType": "B",
+    "date": "2019-03-25T17:30:46",
+    "properties": {
+      "color": "violet",
       "type": "huge"
     }
   },
   {
-    "name": "Chicken",
-    "price": "845.00",
-    "number": 97,
+    "name": "Pants",
+    "price": "702.00",
+    "number": 61,
     "qualityType": 1,
-    "country": "Isle of Man",
+    "country": "Botswana",
+    "jobType": "C",
+    "date": "2019-03-22T14:42:01",
+    "properties": {
+      "color": "pink",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "814.00",
+    "number": 62,
+    "qualityType": 0,
+    "country": "Anguilla",
+    "jobType": "D",
+    "date": "2018-06-18T02:18:50",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "724.00",
+    "number": 63,
+    "qualityType": 0,
+    "country": "Svalbard & Jan Mayen Islands",
+    "jobType": "D",
+    "date": "2018-12-07T02:29:45",
+    "properties": {
+      "color": "maroon",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "498.00",
+    "number": 64,
+    "qualityType": 0,
+    "country": "Kiribati",
+    "jobType": "D",
+    "date": "2018-09-13T22:06:25",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "165.00",
+    "number": 65,
+    "qualityType": 1,
+    "country": "Tajikistan",
+    "jobType": "A",
+    "date": "2018-12-10T10:22:05",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "199.00",
+    "number": 66,
+    "qualityType": 1,
+    "country": "United States of America",
+    "jobType": "B",
+    "date": "2018-10-03T09:10:56",
+    "properties": {
+      "color": "violet",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "604.00",
+    "number": 67,
+    "qualityType": 1,
+    "country": "Denmark",
+    "jobType": "C",
+    "date": "2019-03-20T13:44:34",
+    "properties": {
+      "color": "teal",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "753.00",
+    "number": 68,
+    "qualityType": 0,
+    "country": "Madagascar",
+    "jobType": "D",
+    "date": "2018-07-09T20:04:56",
+    "properties": {
+      "color": "indigo",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Keyboard",
+    "price": "629.00",
+    "number": 69,
+    "qualityType": 1,
+    "country": "Mongolia",
+    "jobType": "A",
+    "date": "2018-09-21T04:56:58",
     "properties": {
       "color": "green",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Keyboard",
+    "price": "469.00",
+    "number": 70,
+    "qualityType": 1,
+    "country": "Guyana",
+    "jobType": "A",
+    "date": "2018-10-05T04:00:14",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "329.00",
+    "number": 71,
+    "qualityType": 0,
+    "country": "Oman",
+    "jobType": "B",
+    "date": "2018-07-09T11:53:57",
+    "properties": {
+      "color": "lime",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "774.00",
+    "number": 72,
+    "qualityType": 1,
+    "country": "Solomon Islands",
+    "jobType": "B",
+    "date": "2018-10-22T13:42:44",
+    "properties": {
+      "color": "maroon",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "712.00",
+    "number": 73,
+    "qualityType": 1,
+    "country": "Cayman Islands",
+    "jobType": "D",
+    "date": "2018-12-22T18:35:58",
+    "properties": {
+      "color": "yellow",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "672.00",
+    "number": 74,
+    "qualityType": 0,
+    "country": "Mayotte",
+    "jobType": "A",
+    "date": "2018-07-12T12:35:44",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Keyboard",
+    "price": "471.00",
+    "number": 75,
+    "qualityType": 1,
+    "country": "Yemen",
+    "jobType": "B",
+    "date": "2018-08-01T05:11:56",
+    "properties": {
+      "color": "tan",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "636.00",
+    "number": 76,
+    "qualityType": 1,
+    "country": "Anguilla",
+    "jobType": "C",
+    "date": "2018-09-19T14:46:25",
+    "properties": {
+      "color": "plum",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "804.00",
+    "number": 77,
+    "qualityType": 0,
+    "country": "Lithuania",
+    "jobType": "B",
+    "date": "2018-11-15T08:32:39",
+    "properties": {
+      "color": "salmon",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Fish",
+    "price": "369.00",
+    "number": 78,
+    "qualityType": 1,
+    "country": "Luxembourg",
+    "jobType": "D",
+    "date": "2018-06-07T00:26:39",
+    "properties": {
+      "color": "yellow",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "85.00",
+    "number": 79,
+    "qualityType": 1,
+    "country": "Tunisia",
+    "jobType": "C",
+    "date": "2018-07-24T03:13:03",
+    "properties": {
+      "color": "sky blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Bacon",
+    "price": "689.00",
+    "number": 80,
+    "qualityType": 0,
+    "country": "Papua New Guinea",
+    "jobType": "C",
+    "date": "2018-11-07T16:08:48",
+    "properties": {
+      "color": "blue",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Hat",
+    "price": "449.00",
+    "number": 81,
+    "qualityType": 1,
+    "country": "Portugal",
+    "jobType": "C",
+    "date": "2018-11-21T22:10:31",
+    "properties": {
+      "color": "blue",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "999.00",
+    "number": 82,
+    "qualityType": 1,
+    "country": "Burundi",
+    "jobType": "D",
+    "date": "2018-06-25T20:50:31",
+    "properties": {
+      "color": "silver",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "361.00",
+    "number": 83,
+    "qualityType": 0,
+    "country": "Cameroon",
+    "jobType": "C",
+    "date": "2018-05-15T14:28:41",
+    "properties": {
+      "color": "azure",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Tuna",
+    "price": "229.00",
+    "number": 84,
+    "qualityType": 1,
+    "country": "Tajikistan",
+    "jobType": "C",
+    "date": "2018-12-09T05:43:44",
+    "properties": {
+      "color": "tan",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Ball",
+    "price": "772.00",
+    "number": 85,
+    "qualityType": 0,
+    "country": "Japan",
+    "jobType": "D",
+    "date": "2018-11-24T17:55:21",
+    "properties": {
+      "color": "fuchsia",
       "type": "small"
     }
   },
   {
     "name": "Shoes",
-    "price": "937.00",
-    "number": 98,
+    "price": "859.00",
+    "number": 86,
+    "qualityType": 1,
+    "country": "Marshall Islands",
+    "jobType": "C",
+    "date": "2018-09-15T18:12:11",
+    "properties": {
+      "color": "black",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Table",
+    "price": "678.00",
+    "number": 87,
     "qualityType": 0,
-    "country": "Belize",
+    "country": "Saint Barthelemy",
+    "jobType": "C",
+    "date": "2018-08-30T10:17:12",
+    "properties": {
+      "color": "plum",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "888.00",
+    "number": 88,
+    "qualityType": 1,
+    "country": "Tanzania",
+    "jobType": "C",
+    "date": "2019-04-18T08:19:56",
+    "properties": {
+      "color": "white",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Table",
+    "price": "962.00",
+    "number": 89,
+    "qualityType": 1,
+    "country": "Mongolia",
+    "jobType": "B",
+    "date": "2018-07-28T09:47:21",
     "properties": {
       "color": "fuchsia",
       "type": "small"
     }
   },
   {
-    "name": "Car",
-    "price": "679.00",
-    "number": 99,
-    "qualityType": 0,
-    "country": "Congo",
+    "name": "Pizza",
+    "price": "948.00",
+    "number": 90,
+    "qualityType": 1,
+    "country": "Brazil",
+    "jobType": "A",
+    "date": "2019-02-05T00:13:39",
     "properties": {
-      "color": "fuchsia",
+      "color": "red",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "571.00",
+    "number": 91,
+    "qualityType": 1,
+    "country": "Benin",
+    "jobType": "A",
+    "date": "2018-05-13T07:14:04",
+    "properties": {
+      "color": "grey",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Shirt",
+    "price": "904.00",
+    "number": 92,
+    "qualityType": 0,
+    "country": "Democratic People's Republic of Korea",
+    "jobType": "C",
+    "date": "2019-01-17T18:59:23",
+    "properties": {
+      "color": "pink",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "460.00",
+    "number": 93,
+    "qualityType": 0,
+    "country": "Samoa",
+    "jobType": "D",
+    "date": "2018-08-22T18:18:46",
+    "properties": {
+      "color": "tan",
       "type": "large"
     }
   },
   {
-    "name": "Car",
-    "price": "895.00",
+    "name": "Shoes",
+    "price": "936.00",
+    "number": 94,
+    "qualityType": 1,
+    "country": "Nigeria",
+    "jobType": "C",
+    "date": "2018-07-24T11:11:36",
+    "properties": {
+      "color": "magenta",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Sausages",
+    "price": "358.00",
+    "number": 95,
+    "qualityType": 1,
+    "country": "Netherlands",
+    "jobType": "A",
+    "date": "2018-05-01T19:10:40",
+    "properties": {
+      "color": "fuchsia",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Cheese",
+    "price": "576.00",
+    "number": 96,
+    "qualityType": 0,
+    "country": "Republic of Korea",
+    "jobType": "B",
+    "date": "2018-08-17T22:16:36",
+    "properties": {
+      "color": "orchid",
+      "type": "huge"
+    }
+  },
+  {
+    "name": "Computer",
+    "price": "657.00",
+    "number": 97,
+    "qualityType": 1,
+    "country": "French Southern Territories",
+    "jobType": "B",
+    "date": "2018-12-05T21:01:08",
+    "properties": {
+      "color": "tan",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Soap",
+    "price": "115.00",
+    "number": 98,
+    "qualityType": 0,
+    "country": "El Salvador",
+    "jobType": "D",
+    "date": "2018-06-01T17:44:58",
+    "properties": {
+      "color": "turquoise",
+      "type": "small"
+    }
+  },
+  {
+    "name": "Chicken",
+    "price": "829.00",
+    "number": 99,
+    "qualityType": 0,
+    "country": "Cote d'Ivoire",
+    "jobType": "A",
+    "date": "2018-06-03T08:38:55",
+    "properties": {
+      "color": "maroon",
+      "type": "large"
+    }
+  },
+  {
+    "name": "Pants",
+    "price": "722.00",
     "number": 100,
     "qualityType": 1,
-    "country": "Sweden",
+    "country": "Jordan",
+    "jobType": "A",
+    "date": "2019-02-14T18:19:09",
     "properties": {
-      "color": "plum",
+      "color": "magenta",
       "type": "small"
     }
   }

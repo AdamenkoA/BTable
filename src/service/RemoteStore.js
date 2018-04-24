@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import MainTable from './MainTable';
 import product from '../data/random';
 
-
 class RemoteStoreAlternative extends Component {
     constructor(props) {
         super(props);
