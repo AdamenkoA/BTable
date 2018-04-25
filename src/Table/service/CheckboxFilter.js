@@ -39,4 +39,8 @@ class CheckboxFilter extends Component {
     }
 }
 
-export default CheckboxFilter;
+export const GetCustomFilter = (filterHandler, customFilterParameters) => {
+    return (
+        <CheckboxFilter filterHandler={filterHandler} Yes={customFilterParameters.Yes}/>
+    );
+};

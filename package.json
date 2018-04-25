@@ -4,11 +4,17 @@
   "private": true,
   "dependencies": {
     "faker": "^4.1.0",
+    "jquery": "^3.3.1",
     "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
     "react-bootstrap-modal": "^4.0.0",
     "react-bootstrap-table": "^4.3.1",
     "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.79.1",
     "xtend": "latest"
   },
   "scripts": {

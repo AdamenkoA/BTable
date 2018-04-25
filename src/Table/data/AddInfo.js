@@ -1,9 +1,9 @@
 const info = {
     selectRowProp: {
-        mode: "checkbox",
-        clickToSelect: true,
-        bgColor: '#aed4a2',
-        showOnlySelected: true
+        mode: 'checkbox',
+        bgColor: '#93768b',
+        // hideSelectColumn: true,
+        clickToSelect: true
     },
     qualityType: {
         0: "yes",

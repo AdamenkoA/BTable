@@ -16,5 +16,3 @@ class BSTable extends Component {
         }
     }
 }
-
-export default BSTable;

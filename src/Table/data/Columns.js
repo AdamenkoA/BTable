@@ -28,4 +28,3 @@ let exp = {
         sortOrder: 'desc'
     }
 };
-export default exp;

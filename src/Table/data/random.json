@@ -1,5 +1,12 @@
 [
   {
+    "name": "name",
+    "price": "price",
+    "number": "number",
+    "qualityType": "qualityType",
+    "country": "country"
+  },
+  {
     "name": "Table",
     "price": "937.00",
     "number": 0,
