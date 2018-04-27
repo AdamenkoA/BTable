@@ -65,7 +65,30 @@
     width: 100%;
 }
 
+.ui.grid {
+
+    margin-right: 0 !important;
+}
+
 .btn {
     border-color: #6c757d !important;
     margin-right: 2px !important;
+}
+
+.semantic-div-grid {
+    margin: 1em;
+}
+
+.semantic-header-grid {
+    margin: 1em;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 5em !important;
+}
+
+.semantic-body-grid {
+    margin: 1em;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 34em !important;
 }
